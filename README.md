@@ -1,15 +1,15 @@
-# sentimental_analysis_Rishabh_jain
+# Sentimental_analysis
 
 ## OVERVIEW
 
-sentimental analysis involves finding access token keys from twitter developer website and analysis of the duplicate tweets for particular word and analyse its polarity and subjectivity.
+Sentimental analysis involves finding access token keys from twitter developer website and analysis of the duplicate tweets for particular word and analyse its polarity and subjectivity.
 
 ## Tweepy Keys
 https://towardsdatascience.com/tweepy-for-beginners-24baf21f2c25
 
 Output 
-Showing negative,positive and neutra tweets of the particular day.
+Showing negative, positive and neutral tweets of the particular day mentioned in the code.
 
-![](output.png)
+![](Output.png)
 
-The particular output is for Covid-19
+# The particular output is for Covid-19.
